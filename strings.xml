@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">F55122060</string>
+    <string name="length">panjang\n</string>
+    <string name="width">lebar</string>
+    <string name="height">tinggi</string>
+    <string name="calculate">hitung</string>
+    <string name="result">hasil</string>
+</resources>
